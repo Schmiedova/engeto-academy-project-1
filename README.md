@@ -37,7 +37,7 @@ Pokud uživatel není registrovaný, program vypíše chybovou hlášku a ukonč
    ```bash
    git clone https://github.com/Schmiedova/engeto-academy-project-1.git
    cd engeto-academy-project-1
-
+   ```
 2. Ověřte, že ve složce máte:
 - text_analyzer.py
 - task_template.py (obsahuje proměnnou TEXTS)
@@ -48,8 +48,9 @@ Pokud uživatel není registrovaný, program vypíše chybovou hlášku a ukonč
 ## Použití
 
 1. Spusťte skript:
-   bash
+   ```bash
    python text_analyzer.py
+   ```
 
 2. Zadejte své uživatelské jméno a heslo. Registrovaní uživatelé:
    - bob / 123
